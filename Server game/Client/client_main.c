@@ -7,7 +7,7 @@
 int main(int argc, char* argv[])
 {
 	if (argc != 4) {
-		printf("USAGE: <client.exe> <port number> <ip of server> <name of client>");
+		printf("USAGE: <client.exe> <ip of server> <port number> <name of client>");
 		Sleep(10000);
 	}
 	//variables
